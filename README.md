@@ -14,4 +14,4 @@ So I’ve cautiously shared it around a few of my friends in the last couple of 
 
 I want to say a big thank you to everyone who has given it a go on their shows or sent in a bug/suggestion over the years – without you, AutoSV wouldn’t be what it is today, thank you for your patience. 
 
-I’ve chosen to only release the compiled binaries at this time, and keep it in open beta, as there’s still a few elements that I’m working on, and some new features in the pipeline. 
+I’ve chosen to only release the compiled binaries at this time, as there’s still a few elements that I’m working on, and some new features in the pipeline. 
