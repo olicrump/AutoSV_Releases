@@ -1,5 +1,7 @@
 # AutoSV_Releases
-Packaged binaries for the AutoSV project, which auto-generates excel flysheets for L-Acoustics and d&amp;b loudspeaker systems
+Packaged binaries for my (closed source for now) AutoSV python project, which auto-generates excel flysheets for L-Acoustics and d&amp;b loudspeaker systems
+
+__ Go to "Releases" on the right hand side of this page for the latest version. There's also a PDF ReadMe/Guide there too. Enjoy! __
 
 One of the most unnecessarily time consuming tasks faced by the modern touring system engineer is writing out fly sheets so that their design can be easily flown on site. This process is typically done manually, perhaps taking 10 mins or more for a large show, and opens the process up to human error while you are transposing the values.
 
